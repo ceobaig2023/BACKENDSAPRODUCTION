@@ -20,3 +20,4 @@ faiss-cpu
 transformers
 torch
 python-dotenv
+opencv-python-headless
